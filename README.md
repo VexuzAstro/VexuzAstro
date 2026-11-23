@@ -1,4 +1,4 @@
-### Hi, I'm Vexuzz 👋
+### Hi, I'm Vexz 👋
 
 I build AI-powered automation for small businesses — Telegram bots, mini apps,
 and backend tooling that handles real customer conversations and bookings.
